@@ -83,3 +83,4 @@ Think about: the amphitheatre adds a setup fee. If you copied the body of `booki
 
 1. In `ex5_room_booking.ts`, add a `MeetingRoom` at 3 000 per hour that offers the first hour free. Which method do you override, and do you need to modify `cheapestRoomFor` or `totalCost`?
 2. In `ex4_interfaces.ts`, add a second interface, `Describable`, containing only `describe()`, and make `Billable` extend it. Which existing code must change?
+# OOP_lab4_polymorphism
